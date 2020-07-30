@@ -1,0 +1,6 @@
+#!/bin/bash
+IP1=$(ip -4 addrhttps://github.com/adithyasrinivas11/shell-scripting.git)
+
+echo "${IP1}"
+echo "\n"
+ "$IP1" |grep "inet"
